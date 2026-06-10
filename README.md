@@ -1,4 +1,4 @@
-# TAILORAI
+# JobFit AI
 
 ![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-**TAILORAI** is an Agentic AI Resume Customization System designed to rewrite and optimize LaTeX resumes for specific job descriptions. By leveraging LangChain and LangGraph, the system intelligently tailors resume content to align with job requirements while preserving factual accuracy and preventing AI hallucinations.
+**JobFit AI** is an Agentic AI Resume Customization System designed to rewrite and optimize LaTeX resumes for specific job descriptions. By leveraging LangChain and LangGraph, the system intelligently tailors resume content to align with job requirements while preserving factual accuracy and preventing AI hallucinations.
 
 **Target Audience:** Job seekers, career coaches, recruiters, and developers building ATS-friendly resume optimization tools.
 
