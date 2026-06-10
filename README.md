@@ -271,7 +271,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-**Rohan Kumar**
+**Rohan Swarnkar**
 
 Computer Science Engineering Student
 
